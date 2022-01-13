@@ -1,5 +1,5 @@
 # project
 
-## editing the file
+## Editing the file
 
 it is a markdown in this repository
